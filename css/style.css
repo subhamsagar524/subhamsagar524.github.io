@@ -48,10 +48,6 @@ a:hover {
       padding: 30px;
     }
 }
-  
-.icon:hover {
-    transform: scale(1.1);
-}
 
 #image {
     margin: 10px 0;
