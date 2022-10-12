@@ -39,9 +39,9 @@ a {
     position: absolute;
     left: 0;
     right: 0;
-    top: 15%;
+    top: 10%;
     margin: 0 auto;
-    width: 500px;
+    width: 30%;
     text-align: center;
     letter-spacing: 1px;
 }
@@ -56,7 +56,8 @@ a {
 
 #image {
     margin: 10px 0;
-    width: 200px;
+    width: 30%;
+    border-radius: 50%;
 }
   
 #social-media-icons {
